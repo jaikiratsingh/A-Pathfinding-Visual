@@ -1,7 +1,7 @@
 # A-Pathfinding-Visual
 This is an attempt to visualize the A* Pathfinding Algorithm and use it to solve a Maze.
 
-It first creates a Maze using the Maze-Generation-Algorithm, then uses the A* Pathfinding Algorithm to find a way through the maze
+It first creates a Maze using the [Maze-Generation-Algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm), then uses the [A* Pathfinding Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) to find a way through the maze
 
 ## Running
 One way to view the algorithm working, is visiting the link [jaikiratsingh.github.io/A-Pathfinding-Visual](jaikiratsingh.github.io/A-Pathfinding-Visual)

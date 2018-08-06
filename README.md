@@ -19,6 +19,9 @@ In a new tab of terminal, opened in the A-Pathfinding-Visual folder, write the b
 ```
 http-server
 ```
+## Sample
+![Sample Snapshot](https://github.com/jaikiratsingh/A-Pathfinding-Visual/blob/gh-pages/Sample.png)
+
 ## Built-With
 * [P5.js](https://p5js.org/)
 
